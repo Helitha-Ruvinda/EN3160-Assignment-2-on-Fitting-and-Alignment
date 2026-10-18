@@ -28,7 +28,7 @@ This repository contains Python implementations for EN3160 Assignment 2, coverin
 
 ## Author
 
-**Name:** Your Name  
-**Index Number:** Your Index Number
+**Name:** Weerasinghe J.A.H.R.  
+**Index Number:** 230697V
 
 *This repository documents the implementation and progress of EN3160 Assignment 2.*
